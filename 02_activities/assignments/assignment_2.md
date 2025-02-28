@@ -11,10 +11,10 @@
     - Explain (with reference to material covered up to date, along with readings and other scholarly sources, as needed) why you classified that visualization the way you did.
       ```
       Your answer...
+      Bad data viz: https://i.insider.com/53038b556da8110e5ce82be7?width=600&format=jpeg&auto=webp
+The Florida gun deaths graph is problematic because it inverts the y-axis, which goes against standard design conventions. Normally, higher numbers are placed at the top, but in this graph, they are at the bottom. This inversion makes it appear as though gun deaths decreased after the "stand your ground" law, when they actually increased. This design choice can mislead viewers, especially those who skim graphs for trends, as they may incorrectly interpret the downward slope as a sign of decline. Additionally, there are no data points labeled, and no x or y-axis labels or units, further reducing clarity.
 
-
-
-
+To improve the data visualization for accessibility, the y-axis should be flipped, the graph should include clear labels, and ensure proper contrast and legibility for users with visual impairments. These changes would help viewers understand the data without needing to mentally correct the inverted axis. This serves as an example of how design choices can alter public perception and manipulate the story behind the data.
 
 
 
@@ -22,6 +22,15 @@
     - How could this data visualization have been improved?  
       ```
       Your answer...
+Good data viz: https://www150.statcan.gc.ca/n1/pub/11-627-m/11-627-m2025007-eng.htm
+
+I chose the Language Diversity in Canada data visualization as an example of effective design. The content of this graph is dense, including languages, median age, proportion of women speakers, and the number of speakers. Despite the quantity of data, it is well presented and easy to understand.
+
+From an accessibility standpoint, the design effectively organizes the data. Each language is aligned with the corresponding metrics such as median age, proportion of women speakers, and the number of speakers. The languages are ordered from the greatest to the least number of speakers, allowing users to quickly identify trends.  Lastly, each piece of data is clearly labeled, leaving no misintreptation error.
+
+The color selection is of note. The visualization uses a color scheme that is sensitive to color blindness, with different shades of color representing varying levels of prominence and good contrast between the text and the background. The darker shades correspond to a higher metric, making it easy for all viewers, including those with visual impairments, to interpret the data.
+
+Overall, this data visualization does a great job of balancing clarity and detail while maintaining accessibility.
 
 
 
